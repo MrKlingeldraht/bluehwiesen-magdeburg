@@ -479,6 +479,19 @@
       "name": "Jakobstraße - Otto von Guericke"
     },
     "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.644306182861326,
+        52.13396220259498
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Jakobstraße - Otto von Guericke"
+    },
+    "geometry": {
       "type": "Polygon",
       "coordinates": [
         [
