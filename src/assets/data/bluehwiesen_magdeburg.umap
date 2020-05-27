@@ -49,9 +49,6 @@
         {
           "type": "Feature",
           "properties": {
-            "_umap_options": {
-              "color": "Green"
-            },
             "name": "01 - Florapark Ostseite (P020)"
           },
           "geometry": {
@@ -65,9 +62,6 @@
         {
           "type": "Feature",
           "properties": {
-            "_umap_options": {
-              "color": "Green"
-            },
             "name": "02 - Florapark Westseite (P020)"
           },
           "geometry": {
