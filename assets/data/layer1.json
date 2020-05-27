@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "Green"
-        },
         "name": "01 - Florapark Ostseite (P020)"
       },
       "geometry": {
@@ -20,9 +17,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "Green"
-        },
         "name": "02 - Florapark Westseite (P020)"
       },
       "geometry": {
@@ -319,7 +313,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Blühwiese 2"
+        "name": "21 - Listemannstraße (GA0226)"
       },
       "geometry": {
         "type": "Polygon",
@@ -352,7 +346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Blühwiese 3"
+        "name": "20 - Jakobstraße (GA0352)"
       },
       "geometry": {
         "type": "Polygon",
