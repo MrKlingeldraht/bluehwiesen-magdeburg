@@ -217,6 +217,19 @@
       "name": "An der Buckauer Fähre"
     },
     "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.64276123046875,
+        52.10656120235483
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "An der Buckauer Fähre"
+    },
+    "geometry": {
       "type": "Polygon",
       "coordinates": [
         [
@@ -241,6 +254,19 @@
             52.1070554192927
           ]
         ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "An der Buckauer Fähre"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.641795635223387,
+        52.10809655171794
       ]
     }
   },
@@ -282,6 +308,19 @@
             52.109078356860635
           ]
         ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Wilhelm-Höpfner-Ring"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.590627133846283,
+        52.10948112134121
       ]
     }
   },
