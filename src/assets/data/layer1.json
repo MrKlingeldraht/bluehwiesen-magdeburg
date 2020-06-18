@@ -50,7 +50,7 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Walther-Rathenau-Straße",
+      "name": "Listemannstraße",
       "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]"
     },
     "geometry": {
@@ -64,7 +64,7 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Walther-Rathenau-Straße",
+      "name": "Listemannstraße",
       "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]"
     },
     "geometry": {
@@ -98,7 +98,7 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Schleinufer",
+      "name": "Elbuferpromenade",
       "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]"
     },
     "geometry": {
@@ -112,7 +112,7 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Schleinufer",
+      "name": "Elbuferpromenade",
       "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]"
     },
     "geometry": {
