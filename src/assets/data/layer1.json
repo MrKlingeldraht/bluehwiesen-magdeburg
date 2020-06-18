@@ -3,7 +3,7 @@
     "type": "Feature",
     "properties": {
       "name": "Jakobstraße (Wohnungsgenossenschaft Otto von Guericke eG)",
-      "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-01.sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -17,7 +17,7 @@
     "type": "Feature",
     "properties": {
       "name": "Jakobstraße (Wohnungsgenossenschaft Otto von Guericke eG)",
-      "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-01.sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -151,7 +151,7 @@
     "type": "Feature",
     "properties": {
       "name": "Ballenstedter Straße (Heimatverein Lemsdorf)",
-      "description": "Gepflegt von: [[https://www.facebook.com/heimatverein.lemsdorf|Heimatverein Lemsdorf]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/ballenstedter-strasse-02.sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.facebook.com/heimatverein.lemsdorf|Heimatverein Lemsdorf]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/ballenstedter-strasse-02-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -165,7 +165,7 @@
     "type": "Feature",
     "properties": {
       "name": "Ballenstedter Straße (Heimatverein Lemsdorf)",
-      "description": "Gepflegt von: [[https://www.facebook.com/heimatverein.lemsdorf|Heimatverein Lemsdorf]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/ballenstedter-strasse-02.sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.facebook.com/heimatverein.lemsdorf|Heimatverein Lemsdorf]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/ballenstedter-strasse-02-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -327,7 +327,7 @@
     "type": "Feature",
     "properties": {
       "name": "Wilhelm-Höpfner-Ring",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/wilhelm-hoepfner-ring-01.sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/wilhelm-hoepfner-ring-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -341,7 +341,7 @@
     "type": "Feature",
     "properties": {
       "name": "Wilhelm-Höpfner-Ring",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/wilhelm-hoepfner-ring-01.sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/wilhelm-hoepfner-ring-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
