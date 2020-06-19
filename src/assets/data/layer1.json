@@ -370,5 +370,101 @@
         ]
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Uni-Campus Gebäude 7",
+      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.641189455986023,
+        52.139722536357375
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Uni-Campus Gebäude 7",
+      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.6411854326725,
+            52.139788383251386
+          ],
+          [
+            11.641153246164322,
+            52.13965257392581
+          ],
+          [
+            11.641202867031097,
+            52.139672328035275
+          ],
+          [
+            11.641231030225754,
+            52.13978509090901
+          ],
+          [
+            11.6411854326725,
+            52.139788383251386
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Uni-Campus Gebäude 18",
+      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.644971370697021,
+        52.13916941860434
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Uni-Campus Gebäude 18",
+      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.64501428604126,
+            52.13955627251676
+          ],
+          [
+            11.644856035709381,
+            52.138817131692974
+          ],
+          [
+            11.644925773143768,
+            52.13878091512357
+          ],
+          [
+            11.645092070102692,
+            52.139544749257254
+          ],
+          [
+            11.64501428604126,
+            52.13955627251676
+          ]
+        ]
+      ]
+    }
   }
 ]
