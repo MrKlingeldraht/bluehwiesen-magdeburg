@@ -20,6 +20,11 @@ jobs:
         run: npm ci
       - name: Build
         run: npm run build:ci
+      - name: Copy index.html to 404.html
+        uses: canastro/copy-action@0.0.2
+        with:
+          source: "dist/bluehwiesen-magdeburg/index.html"
+          target: "dist/bluehwiesen-magdeburg/404.html"
       - name: Archive build
         if: success()
         uses: actions/upload-artifact@v1
@@ -42,8 +47,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
           FOLDER: deploy_dist/bluehwiesen-magdeburg
-      - name: Copy index.html to 404.html
-        uses: canastro/copy-action@0.0.2
-        with:
-          source: "deploy_dist/bluehwiesen-magdeburg/index.html"
-          target: "deploy_dist/bluehwiesen-magdeburg/404.html"
