@@ -4,13 +4,15 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './home/home.component';
 import { ImpressumComponent } from './impressum/impressum.component';
+import { PrivacyComponent } from './privacy/privacy.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    ImpressumComponent
+    ImpressumComponent,
+    PrivacyComponent
   ],
   imports: [
     AppRoutingModule,
