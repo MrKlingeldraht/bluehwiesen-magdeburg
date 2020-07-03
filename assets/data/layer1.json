@@ -466,5 +466,61 @@
         ]
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Jakobstraße",
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-03-sm.jpg|300}}"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.643708050251007,
+        52.13532374338959
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Jakobstraße",
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-03-sm.jpg|300}}"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.643630266189575,
+            52.13550813265566
+          ],
+          [
+            11.6434907913208,
+            52.135379718783184
+          ],
+          [
+            11.643343269824982,
+            52.13507185324798
+          ],
+          [
+            11.643783152103424,
+            52.135029048245734
+          ],
+          [
+            11.64400041103363,
+            52.135532827588705
+          ],
+          [
+            11.643791198730469,
+            52.13556081516295
+          ],
+          [
+            11.643630266189575,
+            52.13550813265566
+          ]
+        ]
+      ]
+    }
   }
 ]
