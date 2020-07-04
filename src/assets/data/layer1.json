@@ -522,5 +522,97 @@
         ]
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Askanischer Platz",
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n03.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-02-sm.jpg|300}}\n\n29.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-01-sm.jpg|300}}"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.652148962020874,
+        52.13714455394733
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Askanischer Platz",
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n03.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-02-sm.jpg|300}}\n\n29.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-01-sm.jpg|300}}"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.651918292045593,
+            52.13728448657954
+          ],
+          [
+            11.651848554611206,
+            52.137279547788225
+          ],
+          [
+            11.651802957057953,
+            52.13715607782778
+          ],
+          [
+            11.651912927627562,
+            52.13715772409616
+          ],
+          [
+            11.651971936225891,
+            52.137095165854554
+          ],
+          [
+            11.651969254016876,
+            52.137014498518575
+          ],
+          [
+            11.652071177959442,
+            52.136976634208445
+          ],
+          [
+            11.652242839336395,
+            52.13700132832737
+          ],
+          [
+            11.652374267578125,
+            52.13710175093675
+          ],
+          [
+            11.652446687221525,
+            52.13710175093675
+          ],
+          [
+            11.65251910686493,
+            52.13713632260232
+          ],
+          [
+            11.652468144893646,
+            52.1371791255797
+          ],
+          [
+            11.652470827102661,
+            52.13723015984511
+          ],
+          [
+            11.6522616147995,
+            52.13726637767542
+          ],
+          [
+            11.652022898197174,
+            52.13730753426502
+          ],
+          [
+            11.651918292045593,
+            52.13728448657954
+          ]
+        ]
+      ]
+    }
   }
 ]
