@@ -614,5 +614,69 @@
         ]
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Gübser Weg",
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n07.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-02-sm.jpg|300}}\n\n29.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/guebser-weg-01-sm.jpg|300}}"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.67098879814148,
+        52.12727078555528
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Gübser Weg",
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n07.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-02-sm.jpg|300}}\n\n29.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/guebser-weg-01-sm.jpg|300}}"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.67323648929596,
+            52.12742886211397
+          ],
+          [
+            11.672088503837585,
+            52.127448621644376
+          ],
+          [
+            11.669803261756897,
+            52.127178573970404
+          ],
+          [
+            11.669009327888487,
+            52.12703696295064
+          ],
+          [
+            11.668719649314879,
+            52.126878885001695
+          ],
+          [
+            11.671922206878662,
+            52.12729054515576
+          ],
+          [
+            11.672388911247253,
+            52.12731359801196
+          ],
+          [
+            11.673150658607483,
+            52.12725102594601
+          ],
+          [
+            11.67323648929596,
+            52.12742886211397
+          ]
+        ]
+      ]
+    }
   }
 ]
