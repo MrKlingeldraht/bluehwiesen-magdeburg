@@ -678,5 +678,53 @@
         ]
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Auffahrt Magdeburger Ring/Albert-Vater-Straße",
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n26.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/magdeburger-ring-02-sm.jpg|300}}\n\n26.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/magdeburger-ring-01-sm.jpg|300}}"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.62774085998535,
+        52.14164028727542
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Auffahrt Magdeburger Ring/Albert-Vater-Straße",
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n26.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/magdeburger-ring-02-sm.jpg|300}}\n\n26.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/magdeburger-ring-01-sm.jpg|300}}"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.627697944641112,
+            52.141897078554265
+          ],
+          [
+            11.627472639083862,
+            52.141413124525286
+          ],
+          [
+            11.627837419509888,
+            52.14135715671329
+          ],
+          [
+            11.627933979034424,
+            52.14187403324358
+          ],
+          [
+            11.627697944641112,
+            52.141897078554265
+          ]
+        ]
+      ]
+    }
   }
 ]
