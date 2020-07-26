@@ -375,7 +375,7 @@
     "type": "Feature",
     "properties": {
       "name": "Uni-Campus Gebäude 7",
-      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]"
+      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-01-sm.jpg|300}}\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-02-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -389,7 +389,7 @@
     "type": "Feature",
     "properties": {
       "name": "Uni-Campus Gebäude 7",
-      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]"
+      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-01-sm.jpg|300}}\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-02-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
