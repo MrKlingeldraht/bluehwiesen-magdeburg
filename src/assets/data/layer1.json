@@ -774,5 +774,53 @@
         ]
       ]
     }
-  } 
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "St.-Josef-Straße",
+      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/st-josef-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/st-josef-strasse-02-sm.jpg|300}}\nFoto: Benjamin Schlosser"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.582921147346497,
+        52.15224650981685
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "St.-Josef-Straße",
+      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/st-josef-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/st-josef-strasse-02-sm.jpg|300}}\nFoto: Benjamin Schlosser"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.582518815994263,
+            52.15284883583893
+          ],
+          [
+            11.582679748535156,
+            52.15146314465712
+          ],
+          [
+            11.583312749862671,
+            52.15149935091369
+          ],
+          [
+            11.583151817321777,
+            52.15286858409513
+          ],
+          [
+            11.582518815994263,
+            52.15284883583893
+          ]
+        ]
+      ]
+    }
+  }
 ]
