@@ -726,5 +726,53 @@
         ]
       ]
     }
-  }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Johannes-Göderitz-Straße",
+      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/johannes-goederitz-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.589420139789581,
+        52.152750094426565
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Johannes-Göderitz-Straße",
+      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/johannes-goederitz-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.58926859498024,
+            52.15296403387655
+          ],
+          [
+            11.589311510324478,
+            52.152519696946015
+          ],
+          [
+            11.589570343494415,
+            52.15253697679843
+          ],
+          [
+            11.589528769254684,
+            52.15297226229641
+          ],
+          [
+            11.58926859498024,
+            52.15296403387655
+          ]
+        ]
+      ]
+    }
+  } 
 ]
