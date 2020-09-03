@@ -2,7 +2,7 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Jakobstraße (Wohnungsgenossenschaft Otto von Guericke eG)",
+      "name": "Jakobstraße 22-26",
       "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-01-sm.jpg|300}}"
     },
     "geometry": {
@@ -374,8 +374,8 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Uni-Campus Gebäude 7",
-      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-01-sm.jpg|300}}\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-02-sm.jpg|300}}"
+      "name": "Sandkasten",
+      "description": "Standort: Campus der OvGU, Gebäude 7\nGepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-01-sm.jpg|300}}\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-02-sm.jpg|300}}\n\nAuf diesem Staudenbeet wurde der Boden durch nährstoffarmen Sand ausgetauscht, der günstige Bedingungen für die Pflanzen schafft und Erdhummeln das Nisten erleichtert."
     },
     "geometry": {
       "type": "Point",
